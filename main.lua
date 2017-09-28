@@ -1,3 +1,3 @@
 function love.draw()
-	love.graphics.print( "Hello World!", 360, 280 )
+	love.graphics.print( "How do I install SourceTree", 360, 280 )
 end
