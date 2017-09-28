@@ -3,12 +3,12 @@ window.onload = main;
 function fizzbuzz(i) {
 	if (i % 3 == 0) {
 		if (i % 5 == 0) {
-			return "Fizz Buzz";
+			return "Game Dev";
 		} else {
-			return "Fizz";
+			return "Game";
 		}
 	} else if (i % 5 == 0) {
-		return "Buzz";
+		return "Dev";
 	} else {
 		return i.toString();
 	}
